@@ -8,7 +8,7 @@
  
 using namespace std;
  
- 
+ #define dbg(x) cout << #x <<" " << x << endl;
  
 void fast() {
     ios_base::sync_with_stdio(false);
