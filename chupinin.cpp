@@ -102,8 +102,8 @@ void solve(){
  
 signed main(){
  
-   //freopen ("control.in","r",stdin);
-   //freopen ("control.out","w",stdout);
+   freopen ("control.in","r",stdin);
+   freopen ("control.out","w",stdout);
  
    fast();
    ll T = 1;
