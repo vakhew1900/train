@@ -106,7 +106,7 @@ signed main(){
    //freopen ("control.out","w",stdout);
  
    fast();
-   ll T = 1;
+   ll T = 2;
    cin >> T;
     while(T--){
         solve();
